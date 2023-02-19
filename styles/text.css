@@ -1,0 +1,51 @@
+p{
+    font-family: Roboto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.Text{
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 3px;
+}
+
+.Video-stats{
+    font-size: 14px;
+    color: rgb(90, 90, 90);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.Marques-text{
+    color: rgb(90, 90, 90);
+    font-size: 14px;
+    margin-bottom: 20px;   
+}
+
+.long-text{
+    color: rgb(90, 90, 90);
+    font-size: 14px;
+    width: 280px;
+    line-height: 22px;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+.Footer{
+    background-color: rgb(156, 4, 4);
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    color: white;
+}
+
+.Shop-now{
+    cursor: pointer;
+}
+
+.Shop-now:hover{
+    text-decoration: underline;
+}
